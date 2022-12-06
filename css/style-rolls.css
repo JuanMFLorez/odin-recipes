@@ -33,19 +33,22 @@ p{
     padding-bottom: 30px;
     text-align: justify;
 }
-
 .subtitle{
-    padding-left: 24px;
+    padding-left: 20px;
     font-size: 30px;    
+}
+
+.sub-subtitle{
+    padding-left: 20px;
+    font-size: 24px;
 }
 
 .recipe-list{
     font-size: 22px;
 }
 
-.list-item{
-    margin-bottom: 5px;
-    text-decoration: none;
-    color: black;
-    font-weight: 500;
+.step-list li{
+    font-size: 22px;
+    margin-bottom: 22px;
+    text-align: justify;
 }
