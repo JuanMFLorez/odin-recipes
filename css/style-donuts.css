@@ -48,6 +48,7 @@ p{
 }
 
 .step-list li{
+    margin-left: 20px;
     font-size: 22px;
     margin-bottom: 22px;
     text-align: justify;
