@@ -35,8 +35,16 @@ p{
 
 .subtitle{
     padding-left: 28px;
+    font-size: 30px;    
+}
+
+.recipe-list{
+    font-size: 22px;
 }
 
 .list-item{
+    margin-bottom: 5px;
     text-decoration: none;
+    color: black;
+    font-weight: 500;
 }
